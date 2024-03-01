@@ -1,0 +1,1 @@
+# Linear-Regression-Model-in-R
